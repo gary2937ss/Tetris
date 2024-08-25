@@ -26,3 +26,13 @@ SPACE --> Paused 遊戲暫停
 <h2 style="color: blue;">🔴遊戲介面 Tetris mini</h1>
 
 ![Tetris Game Screenshot](Teris.png)
+
+<h2 style="color: blue;">🔴遊戲暫停 Tetris mini</h1>
+
+![遊戲暫停](TerisPaused.png)
+
+<h2 style="color: blue;">🔴GameOver Tetris mini</h1>
+
+![遊戲暫停](TerisGameover.png)
+
+
